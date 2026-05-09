@@ -1,16 +1,16 @@
 # Hi, I'm Marci
 
-I am currently learning data analysis and have built a portfolio focused on healthcare-related data projects. In the future, I would like to further expand my skills toward Data Science.
+I am currently learning data analysis, and I have recently built a portfolio focused on healthcare-related data projects. In the future, I would like to further expand my skills in the field of Data Science.
 
-I am especially interested in healthcare data, neuroscience, laboratory diagnostics, and biomedical datasets.
+I am especially interested in healthcare data, neuroscience, laboratory diagnostics, and biomedical data.
 
 I currently work mainly with R, focusing on transforming real-world datasets into clear insights through statistical analysis, data visualization, and introductory machine learning.
 
-## Featured project
+## Current project
 
-I worked on a project based on the Parkinson's Telemonitoring Dataset.
+I worked on a project based on the Parkinson’s Disease Telemonitoring Dataset.
 
-The project investigated how voice-related biomedical features may be connected to Parkinson's disease severity, especially motor_UPDRS scores.
+The project investigated how voice-related biomedical features may be connected to Parkinson’s disease severity, especially motor_UPDRS scores.
 
 Main steps included:
 
@@ -21,7 +21,7 @@ Main steps included:
 - Random Forest modeling
 - Model evaluation
 
-## Tools I use
+## Tools used
 
 - R
 - tidyverse
