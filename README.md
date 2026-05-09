@@ -1,4 +1,4 @@
-# Hi, I'm Bálint
+# Hi, I'm Marci
 
 I am currently learning data analysis and have built a portfolio focused on healthcare-related data projects. In the future, I would like to further expand my skills toward Data Science.
 
